@@ -8,9 +8,12 @@ This is a temporary script file.
 import requests
 from datetime import datetime
 
-url = "http://54.86.136.32:8080//checkglare"
+#url = "http://54.86.136.32:8080//checkglare"
 
-epoch_time = datetime( 2021,2,13,6,30).timestamp()
+url = "http://localhost:8080//checkglare"
+
+
+epoch_time = datetime( 2021,2,13,8,0).timestamp()
 
 print(' the epoch time value is ' + str(epoch_time))
 

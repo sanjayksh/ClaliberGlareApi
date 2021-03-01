@@ -1,14 +1,27 @@
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
 import requests
-from datetime import date
-from datetime import datetime
+from datetime import datetime, date
 from pvlib import solarposition
+from pvlibSolarPos import PvlibSolarPos
 import json
+import logging
+import os
+
 
 
 app = Flask(__name__)
 api = Api(app)
+
+today = date.today()
+
+log_dir = os.path.join(os.path.normpath(os.getcwd()+ os.sep + os.pardir),'logs') 
+
+log_file_suffix = today.strftime("%Y%m%d")
+
+log_file_name = os.path.join(log_dir, 'checkglare_api_'+log_file_suffix+'.log')
+
+logging.basicConfig( filename = log_file_name, level=logging.INFO)
 
 
 class Default(Resource):
@@ -22,7 +35,7 @@ class CheckGlare(Resource):
    
     def post(self):
         
-        today = date.today()
+        logging.info('In the API call processing')
         
         parser = reqparse.RequestParser()
         
@@ -35,39 +48,49 @@ class CheckGlare(Resource):
         
         args_time = datetime.fromtimestamp(args["epoch"])
         
-        print(" args vales are: time: " + str(args_time) )
-        print(" args vales are: lat: " + str(args["lat"] ) )
-        print(" args vales are: long: " + str(args["long"]) )
+        
+        logging.info(" API args vales are: epoch value: " + str(args["epoch"]))
+        logging.info(" API args vales are: epoch converted into date: " + str(args_time))
+        logging.info(" API API args vales are: latitude: " + str(args["lat"]))
+        logging.info(" args vales are: longitude: " + str(args["long"]))
         
     
-        solarpos = solarposition.get_solarposition(
-            time = args_time, 
-            latitude = args["lat"], 
-            longitude = args["long"],
-            altitude = None,
-            pressure = None)
+        solarpos = PvlibSolarPos.get_solarposition(
+            arg_time = args_time, 
+            arg_lat = args["lat"], 
+            arg_long = args["long"] )
         
-        solarpos_data = json.loads(solarpos.to_json())
         
-        zenith = solarpos_data["zenith"]
-        elevation = solarpos_data["elevation"]
-        azimuth = solarpos_data["azimuth"]
+        zenith = solarpos["zenith"]
+        azimuth = solarpos["azimuth"]
+        
+        logging.info(" Solar Position zenith Value is: " + str(zenith))
+        logging.info(" Solar Position azimuth Value is: " + str(azimuth))
         
         glare = False
         
         
         
-        if ( ( list(azimuth.values())[0] - args["orientation"]) < float(30) and list(zenith.values())[0] > float(45)):
+        if ( (azimuth - args["orientation"]) < float(30) and  zenith > float(45)):
             glare = True
 
-        return { "glare" : glare }
+        return { "glare" : glare ,
+                
+                 "debug" : {
+                     
+                    "azimuth" : azimuth,
+                    "orientation" : args["orientation"],
+                     "zenith" :  zenith,
+                     "argTime" : str(args_time)
+                     }
+                }
     
 api.add_resource(Default, '/')
     
 api.add_resource(CheckGlare, '/checkglare')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host = '0.0.0.0', port = 8080, debug=True)
     
     
     
