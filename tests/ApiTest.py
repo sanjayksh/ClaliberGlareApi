@@ -6,17 +6,22 @@ This is a temporary script file.
 """
 
 import requests
+from datetime import datetime
 
-url = "http://127.0.0.1:5000/checkglare"
+url = "http://54.86.136.32:8080//checkglare"
+
+epoch_time = datetime( 2021,2,13,6,30).timestamp()
+
+print(' the epoch time value is ' + str(epoch_time))
 
 img_data = {
-            'lat': '49.2699648',
+            'lat': '49.2827',
             
-            'long': '-123.1290368',
+            'long': '123.1207',
             
-            'epoch': '1588704959.321',
+            'epoch': epoch_time,
             
-            'orientation': '-10.2'
+            'orientation': '90.0'
 }
 
 res = requests.post(url, data = img_data)

@@ -57,7 +57,7 @@ class CheckGlare(Resource):
         
         
         
-        if ( ( list(azimuth.values())[0] - args["orientation"]) < float(30) and list(azimuth.values())[0] > float(45)):
+        if ( ( list(azimuth.values())[0] - args["orientation"]) < float(30) and list(zenith.values())[0] > float(45)):
             glare = True
 
         return { "glare" : glare }
