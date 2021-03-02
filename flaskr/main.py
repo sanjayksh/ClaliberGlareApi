@@ -4,9 +4,11 @@ import requests
 from datetime import datetime, date
 from pvlib import solarposition
 from pvlibSolarPos import PvlibSolarPos
+from pySolar import PySolar
 import json
 import logging
 import os
+import pytz
 
 
 
@@ -48,14 +50,29 @@ class CheckGlare(Resource):
         
         args_time = datetime.fromtimestamp(args["epoch"])
         
+    
         
         logging.info(" API args vales are: epoch value: " + str(args["epoch"]))
         logging.info(" API args vales are: epoch converted into date: " + str(args_time))
         logging.info(" API API args vales are: latitude: " + str(args["lat"]))
         logging.info(" args vales are: longitude: " + str(args["long"]))
+        logging.info(" args vales are: orientation: " + str(args["orientation"]))
         
     
+        
+        """
+        # This call is using pvlibsolar library
+        
         solarpos = PvlibSolarPos.get_solarposition(
+            arg_time = args_time, 
+            arg_lat = args["lat"], 
+            arg_long = args["long"] )
+        
+        """
+        
+        # This call is using pySolar library
+    
+        solarpos = PySolar.get_solarposition(
             arg_time = args_time, 
             arg_lat = args["lat"], 
             arg_long = args["long"] )
@@ -73,17 +90,12 @@ class CheckGlare(Resource):
         
         if ( (azimuth - args["orientation"]) < float(30) and  zenith > float(45)):
             glare = True
-
-        return { "glare" : glare ,
-                
-                 "debug" : {
-                     
-                    "azimuth" : azimuth,
-                    "orientation" : args["orientation"],
-                     "zenith" :  zenith,
-                     "argTime" : str(args_time)
-                     }
-                }
+        
+        logging.info(" The Glare query result is " + str(glare))
+            
+            
+            
+        return { "glare" : glare }
     
 api.add_resource(Default, '/')
     

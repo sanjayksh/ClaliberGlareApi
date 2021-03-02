@@ -1,0 +1,101 @@
+
+INFO:root:In the API call processing
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 00:00:00
+INFO:root: Solar Position zenith Value is: 82.0606313756
+INFO:root: Solar Position azimuth Value is: 121.3066067985
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 01:00:00
+INFO:root: Solar Position zenith Value is: 74.3041405278
+INFO:root: Solar Position azimuth Value is: 133.947099671
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 02:00:00
+INFO:root: Solar Position zenith Value is: 68.1244218302
+INFO:root: Solar Position azimuth Value is: 147.9246208161
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 03:00:00
+INFO:root: Solar Position zenith Value is: 64.0643634816
+INFO:root: Solar Position azimuth Value is: 163.2714011949
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 04:00:00
+INFO:root: Solar Position zenith Value is: 62.5850970626
+INFO:root: Solar Position azimuth Value is: 179.5333021314
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 05:00:00
+INFO:root: Solar Position zenith Value is: 63.8810835
+INFO:root: Solar Position azimuth Value is: 195.8288193282
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 06:00:00
+INFO:root: Solar Position zenith Value is: 67.7802508019
+INFO:root: Solar Position azimuth Value is: 211.2599757285
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 07:00:00
+INFO:root: Solar Position zenith Value is: 73.832740612
+INFO:root: Solar Position azimuth Value is: 225.3389435149
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 08:00:00
+INFO:root: Solar Position zenith Value is: 81.4954514042
+INFO:root: Solar Position azimuth Value is: 238.070898408
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 09:00:00
+INFO:root: Solar Position zenith Value is: 90.2633171792
+INFO:root: Solar Position azimuth Value is: 249.786555092
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 10:00:00
+INFO:root: Solar Position zenith Value is: 99.7067625636
+INFO:root: Solar Position azimuth Value is: 260.9771764252
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 11:00:00
+INFO:root: Solar Position zenith Value is: 109.4480892219
+INFO:root: Solar Position azimuth Value is: 272.2330540162
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 12:00:00
+INFO:root: Solar Position zenith Value is: 119.10577379
+INFO:root: Solar Position azimuth Value is: 284.2742261307
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 13:00:00
+INFO:root: Solar Position zenith Value is: 128.2099725926
+INFO:root: Solar Position azimuth Value is: 298.034875896
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 14:00:00
+INFO:root: Solar Position zenith Value is: 136.0791827198
+INFO:root: Solar Position azimuth Value is: 314.6984446059
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 15:00:00
+INFO:root: Solar Position zenith Value is: 141.6961959001
+INFO:root: Solar Position azimuth Value is: 335.3046608885
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 16:00:00
+INFO:root: Solar Position zenith Value is: 143.8471151167
+INFO:root: Solar Position azimuth Value is: 359.3028195035
+INFO:root: The Glare query result is False
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 17:00:00
+INFO:root: Solar Position zenith Value is: 141.8935676592
+INFO:root: Solar Position azimuth Value is: 23.403368524
+INFO:root: The Glare query result is True
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 18:00:00
+INFO:root: Solar Position zenith Value is: 136.4173230606
+INFO:root: Solar Position azimuth Value is: 44.2141482406
+INFO:root: The Glare query result is True
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 19:00:00
+INFO:root: Solar Position zenith Value is: 128.6257138283
+INFO:root: Solar Position azimuth Value is: 61.0528251912
+INFO:root: The Glare query result is True
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 20:00:00
+INFO:root: Solar Position zenith Value is: 119.5526859861
+INFO:root: Solar Position azimuth Value is: 74.9232179094
+INFO:root: The Glare query result is True
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 21:00:00
+INFO:root: Solar Position zenith Value is: 109.8934767804
+INFO:root: Solar Position azimuth Value is: 87.0174992865
+INFO:root: The Glare query result is True
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 22:00:00
+INFO:root: Solar Position zenith Value is: 100.1243754248
+INFO:root: Solar Position azimuth Value is: 98.2832939826
+INFO:root: The Glare query result is True
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 23:00:00
+INFO:root: Solar Position zenith Value is: 90.6279465447
+INFO:root: Solar Position azimuth Value is: 109.4502689561
+INFO:root: The Glare query result is True
