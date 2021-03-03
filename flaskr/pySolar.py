@@ -11,7 +11,7 @@ class PySolar():
             return_data = {}
             
             
-            arg_date = datetime.datetime(2021, 2, 18, 15, 13, 1, 130320, tzinfo=pytz.timezone("America/Los_Angeles"))
+            arg_date = arg_time.astimezone(pytz.timezone('US/Pacific'))
             
             zenith = (90 - solar.get_altitude(arg_lat, arg_long, arg_date))
             
@@ -19,5 +19,6 @@ class PySolar():
             
             return_data['zenith'] = zenith
             return_data['azimuth'] = azimuth
+            
          
             return return_data

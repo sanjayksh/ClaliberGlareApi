@@ -1,0 +1,409 @@
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-439-304
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613202780.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-12 23:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 80.44867902514297
+INFO:root: Solar Position azimuth Value is: 236.6560447113587
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:31] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613206380.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 00:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 88.82757512549654
+INFO:root: Solar Position azimuth Value is: 248.46638558246326
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:33] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613209980.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 01:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 98.59039367627562
+INFO:root: Solar Position azimuth Value is: 259.68948451956874
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:35] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613213580.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 02:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 108.31603724186412
+INFO:root: Solar Position azimuth Value is: 270.90404774536296
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:37] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613217180.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 03:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 118.00484264184385
+INFO:root: Solar Position azimuth Value is: 282.81132760159954
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:39] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613220780.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 04:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 127.20272360351427
+INFO:root: Solar Position azimuth Value is: 296.3161846025771
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:41] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613224380.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 05:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 135.26010497306692
+INFO:root: Solar Position azimuth Value is: 312.5792727295452
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:43] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613227980.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 06:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 141.20080474447784
+INFO:root: Solar Position azimuth Value is: 332.70802262676784
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:45] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613231580.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 07:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 143.80651456686508
+INFO:root: Solar Position azimuth Value is: 356.43612550481936
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:47] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613235180.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 08:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 142.32104652549265
+INFO:root: Solar Position azimuth Value is: 20.736903665446278
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:49] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613238780.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 09:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 137.19351478546704
+INFO:root: Solar Position azimuth Value is: 42.016587876751316
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:51] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613242380.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 10:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 129.61034933753473
+INFO:root: Solar Position azimuth Value is: 59.278169456365944
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:54] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613245980.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 11:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 120.64452007117765
+INFO:root: Solar Position azimuth Value is: 73.4280012400439
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:56] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613249580.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 12:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 111.02594325402873
+INFO:root: Solar Position azimuth Value is: 85.67446761227406
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:25:58] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613253180.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 13:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 101.2491075932989
+INFO:root: Solar Position azimuth Value is: 96.99559760423003
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:00] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613256780.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 14:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 91.70234944360737
+INFO:root: Solar Position azimuth Value is: 108.14149382192717
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:02] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613260380.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 15:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 82.64028946537567
+INFO:root: Solar Position azimuth Value is: 119.72215932241866
+INFO:root: The Glare query result is True
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:04] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613263980.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 16:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 74.77498382910385
+INFO:root: Solar Position azimuth Value is: 132.25133399362656
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:06] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613267580.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 17:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 68.38369899669024
+INFO:root: Solar Position azimuth Value is: 146.1031801365913
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:08] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613271180.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 18:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 64.0431881122005
+INFO:root: Solar Position azimuth Value is: 161.36047352353847
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:10] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613274780.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 19:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 62.24432745516039
+INFO:root: Solar Position azimuth Value is: 177.62618604781625
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:12] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613278380.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 20:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 63.224985640486956
+INFO:root: Solar Position azimuth Value is: 194.04024317283537
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:14] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613281980.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 21:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 66.85189800689139
+INFO:root: Solar Position azimuth Value is: 209.6665406302712
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:16] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:root:In the API call processing
+INFO:root: API args vales are: epoch value: 1613285580.0
+INFO:root: API args vales are: epoch converted into date: 2021-02-13 22:53:00
+INFO:root: API API args vales are: latitude: 49.2827
+INFO:root: args vales are: longitude: 123.1207
+INFO:root: args vales are: orientation: 90.0
+INFO:root: Solar Position zenith Value is: 72.68921953404507
+INFO:root: Solar Position azimuth Value is: 223.95250525985426
+INFO:root: The Glare query result is False
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 17:26:18] "[37mPOST //checkglare HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Scripts\\conda-script.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\_bootlocale.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\importlib\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\importlib\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\__future__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\json\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\json\\__pycache__\\decoder.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\json\\__pycache__\\scanner.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\json\\__pycache__\\encoder.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\tempfile.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\shutil.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\fnmatch.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\posixpath.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\bz2.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\_compression.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\threading.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\_weakrefset.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\lzma.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\random.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\bisect.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\weakref.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\datetime.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\logging\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\traceback.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\string.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\textwrap.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\getpass.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\imp.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\struct.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\shlex.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\toolz\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\copy.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\cytoolz\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\base\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\io.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\concurrent\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\concurrent\\futures\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\concurrent\\futures\\__pycache__\\_base.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\concurrent\\futures\\__pycache__\\process.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\queue.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\context.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\process.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\signal.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\reduction.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\pickle.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\_compat_pickle.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\socket.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\selectors.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\connection.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\util.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\subprocess.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\multiprocessing\\__pycache__\\queues.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\concurrent\\futures\\__pycache__\\thread.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\constants.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\path.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\distutils\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\distutils\\__pycache__\\spawn.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\distutils\\__pycache__\\errors.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\distutils\\__pycache__\\debug.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\distutils\\__pycache__\\log.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\urllib\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\urllib\\__pycache__\\parse.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\std.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\utils.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\initialise.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\ansitowin32.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\ansi.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\winterm.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\colorama\\__pycache__\\win32.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\ctypes\\__pycache__\\__init__.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\ctypes\\__pycache__\\_endian.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\ctypes\\__pycache__\\wintypes.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\_monitor.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\numbers.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\cli.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\_version.cpython-38.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\conda\\common\\__pycache__\\signals.cpython-38.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 221-439-304
+INFO:werkzeug: * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
